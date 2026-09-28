@@ -1,9 +1,1 @@
-
-  List of tonetags we use: <br/>
-  DNI  : DO NOT INTERACT <br/>
-  IWEC : INTERACT WITH EXTREME CAUTION <br/>
-  IWC : INTERACT WITH CAUTION <br/>
-  IWECARE : INTERACT WITH EXTREME CARE <br/>
-  IWCARE : INTERACT WITH CARE <br/>
-  DNIUF : DO NOT INTERACT UNLESS FRIENDS <br/>
-  C+H : CUDDLE + HIDE <br/>
+workinprogrrss ok
